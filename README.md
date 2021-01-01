@@ -25,6 +25,7 @@
 [<img align="left" alt="Antyss77 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Antyss77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Antyss77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Antyss77 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -99,4 +100,4 @@
 [youtube]: https://youtube.com/c/Antyss77
 [instagram]: https://instagram.com
 [linkedin]: https://linkedin.com
-
+[discord]: https://discord.gg/7xkHagY
