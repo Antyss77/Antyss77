@@ -7,10 +7,11 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020/2021 Goals: Contribute to open source projects, and learn other languages
-- ⚡ 
+- ⚡ I am looking for projects contact me on discord
+- 🎉 Happy New Year 2021 !
 
 ### Contact me 
- - Discord : Antyss77#2126
+- 🌟 Discord : Antyss77#2126 🌟
 
 ### Spotify Playing 🎧
 
