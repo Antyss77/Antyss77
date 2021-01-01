@@ -5,11 +5,9 @@
 
 ## "We can't predict where the Computer Revolution will lead us. All we know for sure is that when we finally get there, we won't have enough RAM."
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2020/2021 Goals: Contribute to open source projects, and learn other languages
+- ⚡ 
 
 ### Spotify Playing 🎧
 
@@ -87,7 +85,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github.com/" />
+  <img align="left" alt="Antyss77's GitHub Stats" src="https://github.com/" />
 
 </details>
 
