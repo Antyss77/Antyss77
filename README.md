@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020/2021 Goals: Contribute to open source projects, and learn other languages
 - ⚡ I am looking for projects contact me on discord
+- 🐊 Many of my projects are now in private, I would add from time to time a new project for the public, 
 - 🎉 Happy New Year 2021 !
 
 ### Contact me 
