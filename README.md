@@ -90,7 +90,7 @@
 </details>
 
 [website]: https://antyss77.com
-[twitter]: https://twitter.com/_Antyss77_
+[twitter]: https://twitter.com/_Antyss77
 [youtube]: https://youtube.com/c/Antyss77
 [instagram]: https://instagram.com
 [linkedin]: https://linkedin.com
