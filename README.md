@@ -92,7 +92,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Antyss77's GitHub Stats" src="https://github.com/" />
+  <img align="left" alt="Antyss77's GitHub Stats" src="github-readme-stats-lake-one.vercel.app/api?username=Antyss77&show_icons=true&hide_border=true" />
 
 </details>
 
