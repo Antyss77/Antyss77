@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Antyss77&color=green)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Antyss77?style=social)](https://twitter.com/_Antyss77)
 
-## "We can't predict where the Computer Revolution will lead us. All we know for sure is that when we finally get there, we won't have enough RAM."
+## "A person who has never made a mistake has never tried to innovate. - Albert Einstein"
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020/2021 Goals: Contribute to open source projects, and learn other languages
