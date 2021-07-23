@@ -17,7 +17,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Antyss77's Spotify Playing" width="350" />](https://open.spotify.com/embed/playlist/0jfiXQbYajdJ8D0TuagcCU)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Antyss77's Spotify Playing" width="350" />](https://open.spotify.com/playlist/0jfiXQbYajdJ8D0TuagcCU?si=2843808278f04224)
 
 ### Connect with me:
 
