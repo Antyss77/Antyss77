@@ -54,13 +54,6 @@
 
 ---
 
-### 📺 SOON
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/c/antyss77)
 
 ---
 
