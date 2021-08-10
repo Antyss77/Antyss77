@@ -32,7 +32,7 @@
 
 ### Languages and Tools:
 
-<img src="https://camo.githubusercontent.com/1e626b533a0d16c10c14239d7e1706ebe5a0bce0b382736aa71d97f7633b6859/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661" alt="java" data-canonical-src="https://img.shields.io/badge/Java-323330?style=for-the-badge&amp;logo=java" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/Antyss77/icons/main/58480979cef1014c0b5e4901.png?token=ALL6RH44HL754EKPKI4GTQLBCICZU" alt="java" data-canonical-src="https://img.shields.io/badge/Java-323330?style=for-the-badge&amp;logo=java" style="max-width:100%;">
 
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
