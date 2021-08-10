@@ -31,9 +31,6 @@
 <br />
 
 ### Languages and Tools:
-
-<img src="https://raw.githubusercontent.com/Antyss77/icons/main/58480979cef1014c0b5e4901.png?token=ALL6RH44HL754EKPKI4GTQLBCICZU" alt="java" data-canonical-src="https://img.shields.io/badge/Java-323330?style=for-the-badge&amp;logo=java" style="max-width:100%;">
-
 <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -43,7 +40,8 @@
 <img align="left" alt="C++" width="26px" height="26px" src="https://github.com/Antyss77/icons/blob/main/c-plus-plus-logo.png?raw=true" />
 <img align="left" alt="C#" width="26px" height="26px" src="https://github.com/Antyss77/icons/blob/main/c-sharp-c-logo-02F17714BA-seeklogo.com.png?raw=true" />
 <img align="left" alt="C" width="26px" height="26px" src="https://github.com/Antyss77/icons/blob/main/t%C3%A9l%C3%A9chargement%20(1).png?raw=true" />
-<img align="left" alt="Java" width="26px" height="26px" src="https://github.com/Antyss77/icons/blob/main/t%C3%A9l%C3%A9chargement.png?raw=true" />
+
+<img align="left" alt="Java" width="26px" height="26px" src="https://raw.githubusercontent.com/Antyss77/icons/main/58480979cef1014c0b5e4901.png?token=ALL6RH44HL754EKPKI4GTQLBCICZU"/>
 <img align="left" alt="SQL" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
