@@ -7,6 +7,13 @@
 ## "A person who has never made a mistake has never tried to innovate. - Albert Einstein"
 
 # Languages :
-[![Java](https://img.shields.io/static/v1?&message=Java&color=blue&logo=github)](https://github.com/Antyss77/Java)
+![icons8-java-32](https://user-images.githubusercontent.com/47704223/128955344-d562d13c-704a-4b1a-a983-ac2ed65d99cb.png)
 
 # Tools :
+![icons8-intellij-idea-32](https://user-images.githubusercontent.com/47704223/128955443-8e3479d9-2d2e-4bc0-b4e1-2f0a9c92af5f.png)
+![icons8-visual-studio-code-2019-32](https://user-images.githubusercontent.com/47704223/128955444-fd94d629-6e79-43bc-bc61-aacbf89fa2af.png)
+![icons8-github-32](https://user-images.githubusercontent.com/47704223/128955441-6015276b-ac89-4b4f-8dc6-52216b4528dd.png)
+![photoshop](https://user-images.githubusercontent.com/47704223/128955645-73a88973-85e5-4c08-afc7-5c68936995de.png)
+
+
+
