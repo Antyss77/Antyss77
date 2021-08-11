@@ -25,7 +25,7 @@
 ![icons8-github-32](https://user-images.githubusercontent.com/47704223/128955441-6015276b-ac89-4b4f-8dc6-52216b4528dd.png)
 ![photoshop](https://user-images.githubusercontent.com/47704223/128955645-73a88973-85e5-4c08-afc7-5c68936995de.png)
 ![ai](https://user-images.githubusercontent.com/47704223/128956609-fd34ba10-d1f1-4240-b082-30dfe56c9eb5.png)
-![icons8-mysql-logo-32](https://user-images.githubusercontent.com/47704223/128956807-a5decdb3-794b-483b-900b-3fe176b10b68.png)
+![1012821_code_development_logo_mysql_icon](https://user-images.githubusercontent.com/47704223/128957317-43fa86e1-7815-4980-82f5-947f7b993b02.png)
 ![icons8-docker-32](https://user-images.githubusercontent.com/47704223/128957075-ca9c8b3a-25ce-4e9e-87b8-3998640e4823.png)
 ![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
 
@@ -36,7 +36,10 @@
 ![icons8-nodejs-32](https://user-images.githubusercontent.com/47704223/128956245-759c3912-a23b-4c17-b329-aa4a123c6c04.png)
 ![icons8-bootstrap-32](https://user-images.githubusercontent.com/47704223/128956305-dab62a86-462c-4b76-90e9-d90d4f884fa3.png)
 ![vuejs-logo-17D586B587-seeklogo com](https://user-images.githubusercontent.com/47704223/128956362-28409d2a-3799-4c35-a397-3501e36515ac.png)
-![angular](https://user-images.githubusercontent.com/47704223/128957208-86b1f22a-3c02-45ec-a2c6-d7452d3daac3.png)
+![1174949_js_react js_logo_react_react native_icon](https://user-images.githubusercontent.com/47704223/128957308-f6468bb7-bbfe-4007-be4a-282098f57d19.png)
+![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
+
+
 
 
 
