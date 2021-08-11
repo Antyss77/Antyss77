@@ -34,10 +34,10 @@
 ![icons8-intellij-idea-32](https://user-images.githubusercontent.com/47704223/128955443-8e3479d9-2d2e-4bc0-b4e1-2f0a9c92af5f.png)
 ![icons8-visual-studio-code-2019-32](https://user-images.githubusercontent.com/47704223/128955444-fd94d629-6e79-43bc-bc61-aacbf89fa2af.png)
 ![6929231_logo_visual studio_icon](https://user-images.githubusercontent.com/47704223/128957790-a7ec0875-7409-41f0-b8c7-1ef90837a9e7.png)
-![icons8-sublime-text-32](https://user-images.githubusercontent.com/47704223/128957746-0c3add35-b6ac-47a4-be5e-def0105745ce.png)
 ![icons8-github-32](https://user-images.githubusercontent.com/47704223/128955441-6015276b-ac89-4b4f-8dc6-52216b4528dd.png)
 ![photoshop](https://user-images.githubusercontent.com/47704223/128955645-73a88973-85e5-4c08-afc7-5c68936995de.png)
 ![ai](https://user-images.githubusercontent.com/47704223/128956609-fd34ba10-d1f1-4240-b082-30dfe56c9eb5.png)
+![mysql](https://user-images.githubusercontent.com/47704223/129098221-7a81d43b-b46a-4e30-8a29-1668caaf3a70.png)
 ![icons8-docker-32](https://user-images.githubusercontent.com/47704223/128957075-ca9c8b3a-25ce-4e9e-87b8-3998640e4823.png)
 ![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
 
