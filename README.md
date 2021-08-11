@@ -55,6 +55,9 @@
 # Operating System :
 ![icons8-debian-32](https://user-images.githubusercontent.com/47704223/129114893-81ce9e08-aa21-4ff4-8e9f-93f776f00618.png)
 ![icons8-ubuntu-32](https://user-images.githubusercontent.com/47704223/129114929-37471d60-a9e3-4e30-a52e-c0afd183754b.png)
+![distributorlogofedora_94082](https://user-images.githubusercontent.com/47704223/129115110-f66e79fc-e96d-4f97-a475-91021b48c0fe.png)
+![icons8-kali-linux-32](https://user-images.githubusercontent.com/47704223/129115207-70261c92-2fd4-4ea6-9b3e-cc72b316d33c.png)
+![Parrot_Logo](https://user-images.githubusercontent.com/47704223/129115282-3690ea94-05b3-4de4-af81-57997a25bdd2.png)
 
 
 # Statistics :
