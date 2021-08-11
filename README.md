@@ -38,7 +38,8 @@
 ![vuejs-logo-17D586B587-seeklogo com](https://user-images.githubusercontent.com/47704223/128956362-28409d2a-3799-4c35-a397-3501e36515ac.png)
 ![1174949_js_react js_logo_react_react native_icon](https://user-images.githubusercontent.com/47704223/128957308-f6468bb7-bbfe-4007-be4a-282098f57d19.png)
 ![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
-
+![4691208_symfony_icon](https://user-images.githubusercontent.com/47704223/128957482-d2d8d999-d099-4c4c-8be8-46ab7e3e576d.png)
+![laravel-mark-PMS-red-1788C](https://user-images.githubusercontent.com/47704223/128957521-56d07b29-1041-4993-9b18-1fc20058f862.png)
 
 
 
