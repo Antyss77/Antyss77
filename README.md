@@ -5,15 +5,14 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Antyss77?style=social)](https://twitter.com/_Antyss77)
 
 ## "A person who has never made a mistake has never tried to innovate. - Albert Einstein"
+# Connect with me:
+[<img align="left" alt="Antyss77" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](website)
+[<img align="left" alt="Antyss77 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>](youtube)
+[<img align="left" alt="Antyss77 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>](twitter)
+[<img align="left" alt="Antyss77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](linkedin)
+[<img align="left" alt="Antyss77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](instagram)
+[<img align="left" alt="Antyss77 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>](discord)
 
-
-### Connect with me:
-[<img align="left" alt="Antyss77" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](website)
-[<img align="left" alt="Antyss77 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](youtube)
-[<img align="left" alt="Antyss77 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](twitter)
-[<img align="left" alt="Antyss77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin)
-[<img align="left" alt="Antyss77 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](instagram)
-[<img align="left" alt="Antyss77 | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](discord)
 
 
 # Languages :
@@ -26,6 +25,7 @@
 ![icons8-javascript-32](https://user-images.githubusercontent.com/47704223/128956069-10ce583b-819f-4c96-909f-ca25334591f1.png)
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/47704223/128957619-d4f7e829-a7ef-472d-952b-9c68e7aba373.png)
 ![4691305_rust_icon](https://user-images.githubusercontent.com/47704223/128957628-cb512815-9d7a-43aa-98ca-0c78e5929a6f.png)
+
 
 
 # Tools :
