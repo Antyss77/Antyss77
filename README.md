@@ -10,12 +10,12 @@
 
 
 # Connect with me:
-[<img align="left" alt="Antyss77 | Site" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="https://antyss77.com/"/>]
-[<img align="left" alt="Antyss77 | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="https//youtube.com/Antyss77"/>]
-[<img align="left" alt="Antyss77 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" href="https://twitter.com/_Antyss77"/>]
-[<img align="left" alt="Antyss77 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://linkedin.com/"/>]
-[<img align="left" alt="Antyss77 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://instagram.com/"/>]
-[<img align="left" alt="Antyss77 | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" href="https://discord.gg/olympefr"/>]
+[<img align="left" alt="Antyss77 | Site" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>]
+[<img align="left" alt="Antyss77 | YouTube" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>]
+[<img align="left" alt="Antyss77 | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>]
+[<img align="left" alt="Antyss77 | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>]
+[<img align="left" alt="Antyss77 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>]
+[<img align="left" alt="Antyss77 | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>]
 
 
 
