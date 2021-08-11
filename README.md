@@ -6,6 +6,7 @@
 
 ## "A person who has never made a mistake has never tried to innovate. - Albert Einstein"
 
+
 # Languages :
 ![icons8-java-32](https://user-images.githubusercontent.com/47704223/128955344-d562d13c-704a-4b1a-a983-ac2ed65d99cb.png)
 ![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
@@ -18,22 +19,17 @@
 ![4691305_rust_icon](https://user-images.githubusercontent.com/47704223/128957628-cb512815-9d7a-43aa-98ca-0c78e5929a6f.png)
 
 
-
-
-
-
-
 # Tools :
 ![icons8-intellij-idea-32](https://user-images.githubusercontent.com/47704223/128955443-8e3479d9-2d2e-4bc0-b4e1-2f0a9c92af5f.png)
 ![icons8-visual-studio-code-2019-32](https://user-images.githubusercontent.com/47704223/128955444-fd94d629-6e79-43bc-bc61-aacbf89fa2af.png)
+![6929231_logo_visual studio_icon](https://user-images.githubusercontent.com/47704223/128957790-a7ec0875-7409-41f0-b8c7-1ef90837a9e7.png)
+![icons8-sublime-text-32](https://user-images.githubusercontent.com/47704223/128957746-0c3add35-b6ac-47a4-be5e-def0105745ce.png)
 ![icons8-github-32](https://user-images.githubusercontent.com/47704223/128955441-6015276b-ac89-4b4f-8dc6-52216b4528dd.png)
 ![photoshop](https://user-images.githubusercontent.com/47704223/128955645-73a88973-85e5-4c08-afc7-5c68936995de.png)
 ![ai](https://user-images.githubusercontent.com/47704223/128956609-fd34ba10-d1f1-4240-b082-30dfe56c9eb5.png)
 ![1012821_code_development_logo_mysql_icon](https://user-images.githubusercontent.com/47704223/128957317-43fa86e1-7815-4980-82f5-947f7b993b02.png)
 ![icons8-docker-32](https://user-images.githubusercontent.com/47704223/128957075-ca9c8b3a-25ce-4e9e-87b8-3998640e4823.png)
 ![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
-
-
 
 
 # Framework :
