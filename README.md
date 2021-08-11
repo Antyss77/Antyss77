@@ -24,6 +24,9 @@
 ![icons8-visual-studio-code-2019-32](https://user-images.githubusercontent.com/47704223/128955444-fd94d629-6e79-43bc-bc61-aacbf89fa2af.png)
 ![icons8-github-32](https://user-images.githubusercontent.com/47704223/128955441-6015276b-ac89-4b4f-8dc6-52216b4528dd.png)
 ![photoshop](https://user-images.githubusercontent.com/47704223/128955645-73a88973-85e5-4c08-afc7-5c68936995de.png)
+![ai](https://user-images.githubusercontent.com/47704223/128956609-fd34ba10-d1f1-4240-b082-30dfe56c9eb5.png)
+![icons8-mysql-logo-32](https://user-images.githubusercontent.com/47704223/128956807-a5decdb3-794b-483b-900b-3fe176b10b68.png)
+![pngegg](https://user-images.githubusercontent.com/47704223/128956957-3ae820b8-49cc-475d-b077-be09c6b2b43f.png)
 ![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
 
 
