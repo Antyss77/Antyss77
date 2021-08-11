@@ -42,7 +42,7 @@
 ![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
 
 
-# Framework & OS:
+# Framework :
 ![1012818_code_development_logo_nodejs_icon](https://user-images.githubusercontent.com/47704223/128957371-05f94bce-e803-4930-9bad-1f711a3ed01d.png)
 ![icons8-bootstrap-32](https://user-images.githubusercontent.com/47704223/128956305-dab62a86-462c-4b76-90e9-d90d4f884fa3.png)
 ![vuejs-logo-17D586B587-seeklogo com](https://user-images.githubusercontent.com/47704223/128956362-28409d2a-3799-4c35-a397-3501e36515ac.png)
@@ -50,6 +50,11 @@
 ![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
 ![4691208_symfony_icon](https://user-images.githubusercontent.com/47704223/128957482-d2d8d999-d099-4c4c-8be8-46ab7e3e576d.png)
 ![laravel-mark-PMS-red-1788C](https://user-images.githubusercontent.com/47704223/128957521-56d07b29-1041-4993-9b18-1fc20058f862.png)
+
+
+# OS :
+![debian](https://user-images.githubusercontent.com/47704223/129114810-dea7c401-4b51-4a37-9efb-5447325b7485.png)
+
 
 # Statistics :
   <img align="left" alt="Antyss77's GitHub Stats" src="https://github-readme-stats-lake-one.vercel.app/api?username=Antyss77&show_icons=true&hide_border=true" />
