@@ -21,7 +21,7 @@
 # Languages :
 ![icons8-java-32](https://user-images.githubusercontent.com/47704223/128955344-d562d13c-704a-4b1a-a983-ac2ed65d99cb.png)
 ![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
-![css](https://user-images.githubusercontent.com/47704223/128955880-ea141e02-a69a-45de-a202-60b96ae7a543.jpg)
+![icons8-css3-32](https://user-images.githubusercontent.com/47704223/128987319-c8d4a368-38c5-417a-98b9-71a8263b347f.png)
 ![icons8-c-programming-32](https://user-images.githubusercontent.com/47704223/128956113-c062b078-4ea1-48d7-a509-09a7a096c418.png)
 ![icons8-c++-32](https://user-images.githubusercontent.com/47704223/128955948-1919cbaa-5087-4458-a81d-78f693cf0a56.png)
 ![csharp](https://user-images.githubusercontent.com/47704223/128956015-52c1c46a-7cfb-4c0f-b22d-b634fd1a87e2.png)
