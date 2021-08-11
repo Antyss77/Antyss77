@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=Antyss77&url=https%3A%2F%2Fwww.antyss77.com)](https://antyss77.com)
-![](https://komarev.com/ghpvc/?username=Antyss77&color=green)
+![](https://komarev.com/ghpvc/?username=Antyss77&color=black)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Antyss77?style=social)](https://twitter.com/_Antyss77)
 
 
