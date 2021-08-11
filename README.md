@@ -53,7 +53,8 @@
 
 
 # OS :
-![debian](https://user-images.githubusercontent.com/47704223/129114810-dea7c401-4b51-4a37-9efb-5447325b7485.png)
+![icons8-debian-32](https://user-images.githubusercontent.com/47704223/129114893-81ce9e08-aa21-4ff4-8e9f-93f776f00618.png)
+![icons8-ubuntu-32](https://user-images.githubusercontent.com/47704223/129114929-37471d60-a9e3-4e30-a52e-c0afd183754b.png)
 
 
 # Statistics :
