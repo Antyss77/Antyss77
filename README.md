@@ -52,7 +52,7 @@
 ![laravel-mark-PMS-red-1788C](https://user-images.githubusercontent.com/47704223/128957521-56d07b29-1041-4993-9b18-1fc20058f862.png)
 
 
-# OS :
+# Operating System :
 ![icons8-debian-32](https://user-images.githubusercontent.com/47704223/129114893-81ce9e08-aa21-4ff4-8e9f-93f776f00618.png)
 ![icons8-ubuntu-32](https://user-images.githubusercontent.com/47704223/129114929-37471d60-a9e3-4e30-a52e-c0afd183754b.png)
 
