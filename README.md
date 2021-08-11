@@ -15,6 +15,7 @@
 [<img align="left" alt="Antyss77 | Instagram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>](instagram)
 [<img align="left" alt="Antyss77 | Discord" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg"/>](discord)
 
+
 # Languages :
 ![icons8-java-32](https://user-images.githubusercontent.com/47704223/128955344-d562d13c-704a-4b1a-a983-ac2ed65d99cb.png)
 ![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
@@ -48,7 +49,3 @@
 ![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
 ![4691208_symfony_icon](https://user-images.githubusercontent.com/47704223/128957482-d2d8d999-d099-4c4c-8be8-46ab7e3e576d.png)
 ![laravel-mark-PMS-red-1788C](https://user-images.githubusercontent.com/47704223/128957521-56d07b29-1041-4993-9b18-1fc20058f862.png)
-
-
-
-
