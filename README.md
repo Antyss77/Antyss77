@@ -11,11 +11,11 @@
 
 # Connect with me:
 [![Site](https://user-images.githubusercontent.com/47704223/128959901-41abaf89-d071-4efe-b614-b7f0649abf15.png)](https://antyss77.com/)
-[![YouTube](https://user-images.githubusercontent.com/47704223/128960250-9c59fa5a-fed3-408e-9c41-9ba73a1b7429.png)](https://antyss77.com/)
-[![Twitter](https://user-images.githubusercontent.com/47704223/128960314-01c884ff-3edc-4343-83e2-4f49939fb4d4.png)](https://antyss77.com/)
-[![LinkedIn](https://user-images.githubusercontent.com/47704223/128960384-84ef3083-23c0-4799-a53f-b26ea4b63b7c.png)](https://antyss77.com/)
-[![Instagram](https://user-images.githubusercontent.com/47704223/128960467-978eb1d1-653d-4cab-bd51-f1aa7f4e80e0.png)](https://antyss77.com/)
-[![Discord](https://user-images.githubusercontent.com/47704223/128960503-17a16290-c2b6-43f9-a862-ddd1f077617e.png)](https://antyss77.com/)
+[![YouTube](https://user-images.githubusercontent.com/47704223/128960250-9c59fa5a-fed3-408e-9c41-9ba73a1b7429.png)](https://youtube.com/Antyss77/)
+[![Twitter](https://user-images.githubusercontent.com/47704223/128960314-01c884ff-3edc-4343-83e2-4f49939fb4d4.png)](https://twitter.com/_Antyss77)
+[![LinkedIn](https://user-images.githubusercontent.com/47704223/128960384-84ef3083-23c0-4799-a53f-b26ea4b63b7c.png)](https://linkedin.com/)
+[![Instagram](https://user-images.githubusercontent.com/47704223/128960467-978eb1d1-653d-4cab-bd51-f1aa7f4e80e0.png)](https://instagram.com/)
+[![Discord](https://user-images.githubusercontent.com/47704223/128960503-17a16290-c2b6-43f9-a862-ddd1f077617e.png)](https://discord.gg/)
 
 
 # Languages :
