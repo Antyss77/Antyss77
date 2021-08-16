@@ -9,7 +9,7 @@
 ## "A person who has never made a mistake has never tried to innovate. - Albert Einstein"
 
 
-# Connect with me:
+# Connect with me :
 [![Site](https://user-images.githubusercontent.com/47704223/128959901-41abaf89-d071-4efe-b614-b7f0649abf15.png)](https://antyss77.com/)
 [![YouTube](https://user-images.githubusercontent.com/47704223/128960250-9c59fa5a-fed3-408e-9c41-9ba73a1b7429.png)](https://youtube.com/Antyss77/)
 [![Twitter](https://user-images.githubusercontent.com/47704223/128960314-01c884ff-3edc-4343-83e2-4f49939fb4d4.png)](https://twitter.com/_Antyss77)
