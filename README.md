@@ -23,8 +23,6 @@
 ![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
 ![icons8-css3-32](https://user-images.githubusercontent.com/47704223/128987319-c8d4a368-38c5-417a-98b9-71a8263b347f.png)
 ![icons8-javascript-32](https://user-images.githubusercontent.com/47704223/128956069-10ce583b-819f-4c96-909f-ca25334591f1.png)
-![icons8-c-programming-32](https://user-images.githubusercontent.com/47704223/128956113-c062b078-4ea1-48d7-a509-09a7a096c418.png)
-![icons8-c++-32](https://user-images.githubusercontent.com/47704223/128955948-1919cbaa-5087-4458-a81d-78f693cf0a56.png)
 ![csharp](https://user-images.githubusercontent.com/47704223/128956015-52c1c46a-7cfb-4c0f-b22d-b634fd1a87e2.png)
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/47704223/128957619-d4f7e829-a7ef-472d-952b-9c68e7aba373.png)
 ![4691305_rust_icon](https://user-images.githubusercontent.com/47704223/128957628-cb512815-9d7a-43aa-98ca-0c78e5929a6f.png)
