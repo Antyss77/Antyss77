@@ -53,4 +53,4 @@
 
 # Statistics :
   <img align="left" alt="Antyss77's GitHub Stats" src="https://github-readme-stats-lake-one.vercel.app/api?username=Antyss77&show_icons=true&hide_border=true" />
-  <img align="right" alt="Antyss77 Top Languages" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Antyss77&langs_count=3)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img align="right" alt="Antyss77 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antyss77&langs_count=3)](https://github.com/anuraghazra/github-readme-stats"/>
