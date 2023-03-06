@@ -23,7 +23,7 @@
 ![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
 ![icons8-css3-32](https://user-images.githubusercontent.com/47704223/128987319-c8d4a368-38c5-417a-98b9-71a8263b347f.png)
 ![icons8-javascript-32](https://user-images.githubusercontent.com/47704223/128956069-10ce583b-819f-4c96-909f-ca25334591f1.png)
-![cdnlogo com_c-sharp](https://user-images.githubusercontent.com/47704223/222994834-a1e16d8f-e0b4-4745-bf42-7abf74dcb01a.png)
+![icons8-c-sharp-logo-2-32](https://user-images.githubusercontent.com/47704223/222995589-082d8629-3371-4d47-a1d4-e7c7a3fc0e94.png)
 
 
 # Tools :
