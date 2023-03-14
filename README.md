@@ -1,13 +1,8 @@
 ### Hi there, I'm Antyss77 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f526561646d652d576f726b666c6f77732f526561646d652d49636f6e7340312e312e302f69636f6e732f676966732f776176652e676966](https://user-images.githubusercontent.com/47704223/128958910-b987e56f-6d7a-4809-a58f-dfc491adc1d4.gif)
 
-
 [![Website](https://img.shields.io/website?label=Antyss77&url=https%3A%2F%2Fwww.antyss77.com)](https://antyss77.com)
 ![](https://komarev.com/ghpvc/?username=Antyss77&color=blue)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_Antyss77?style=social)](https://twitter.com/_Antyss77)
-
-
-## "A person who has never made a mistake has never tried to innovate. - Albert Einstein"
-
 
 # Connect with me :
 [![Site](https://user-images.githubusercontent.com/47704223/128959901-41abaf89-d071-4efe-b614-b7f0649abf15.png)](https://antyss77.com/)
@@ -17,14 +12,12 @@
 [![Instagram](https://user-images.githubusercontent.com/47704223/128960467-978eb1d1-653d-4cab-bd51-f1aa7f4e80e0.png)](https://instagram.com/)
 [![Discord](https://user-images.githubusercontent.com/47704223/128960503-17a16290-c2b6-43f9-a862-ddd1f077617e.png)](https://discord.com/users/277483794376818689)
 
-
 # Languages :
 ![icons8-java-32](https://user-images.githubusercontent.com/47704223/128955344-d562d13c-704a-4b1a-a983-ac2ed65d99cb.png)
 ![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
 ![icons8-css3-32](https://user-images.githubusercontent.com/47704223/128987319-c8d4a368-38c5-417a-98b9-71a8263b347f.png)
 ![icons8-javascript-32](https://user-images.githubusercontent.com/47704223/128956069-10ce583b-819f-4c96-909f-ca25334591f1.png)
 ![icons8-c-sharp-logo-2-32](https://user-images.githubusercontent.com/47704223/222995589-082d8629-3371-4d47-a1d4-e7c7a3fc0e94.png)
-
 
 # Tools :
 ![icons8-intellij-idea-32](https://user-images.githubusercontent.com/47704223/128955443-8e3479d9-2d2e-4bc0-b4e1-2f0a9c92af5f.png)
@@ -35,12 +28,10 @@
 ![ai](https://user-images.githubusercontent.com/47704223/128956609-fd34ba10-d1f1-4240-b082-30dfe56c9eb5.png)
 ![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
 
-
 # Framework :
 ![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
 ![4691208_symfony_icon](https://user-images.githubusercontent.com/47704223/128957482-d2d8d999-d099-4c4c-8be8-46ab7e3e576d.png)
 ![laravel-mark-PMS-red-1788C](https://user-images.githubusercontent.com/47704223/128957521-56d07b29-1041-4993-9b18-1fc20058f862.png)
-
 
 # Operating System :
 ![icons8-debian-32](https://user-images.githubusercontent.com/47704223/129114893-81ce9e08-aa21-4ff4-8e9f-93f776f00618.png)
@@ -48,7 +39,6 @@
 ![fedora-32](https://user-images.githubusercontent.com/47704223/129115110-f66e79fc-e96d-4f97-a475-91021b48c0fe.png)
 ![icons8-kali-linux-32](https://user-images.githubusercontent.com/47704223/129115207-70261c92-2fd4-4ea6-9b3e-cc72b316d33c.png)
 ![ParrotOS-32](https://user-images.githubusercontent.com/47704223/129115282-3690ea94-05b3-4de4-af81-57997a25bdd2.png)
-
 
 # Statistics :
   <img align="left" alt="Antyss77's GitHub Stats" src="https://github-readme-stats-lake-one.vercel.app/api?username=Antyss77&show_icons=true&hide_border=true" />
