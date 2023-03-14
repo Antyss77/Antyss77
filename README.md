@@ -13,23 +13,28 @@
 [![Discord](https://user-images.githubusercontent.com/47704223/128960503-17a16290-c2b6-43f9-a862-ddd1f077617e.png)](https://discord.com/users/277483794376818689)
 
 # Languages :
-![icons8-java-32](https://user-images.githubusercontent.com/47704223/128955344-d562d13c-704a-4b1a-a983-ac2ed65d99cb.png)
-![icons8-html-32](https://user-images.githubusercontent.com/47704223/128955793-6042b7f2-0ceb-4747-869f-0f3b991ae960.png)
-![icons8-css3-32](https://user-images.githubusercontent.com/47704223/128987319-c8d4a368-38c5-417a-98b9-71a8263b347f.png)
-![icons8-javascript-32](https://user-images.githubusercontent.com/47704223/128956069-10ce583b-819f-4c96-909f-ca25334591f1.png)
-![icons8-c-sharp-logo-2-32](https://user-images.githubusercontent.com/47704223/222995589-082d8629-3371-4d47-a1d4-e7c7a3fc0e94.png)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</p>
 
 # Framework :
-![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
-![4691208_symfony_icon](https://user-images.githubusercontent.com/47704223/128957482-d2d8d999-d099-4c4c-8be8-46ab7e3e576d.png)
-![laravel-mark-PMS-red-1788C](https://user-images.githubusercontent.com/47704223/128957521-56d07b29-1041-4993-9b18-1fc20058f862.png)
-
+<p align="left">
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+</p>
+  
 # Operating System :
-![icons8-debian-32](https://user-images.githubusercontent.com/47704223/129114893-81ce9e08-aa21-4ff4-8e9f-93f776f00618.png)
-![icons8-ubuntu-32](https://user-images.githubusercontent.com/47704223/129114929-37471d60-a9e3-4e30-a52e-c0afd183754b.png)
-![fedora-32](https://user-images.githubusercontent.com/47704223/129115110-f66e79fc-e96d-4f97-a475-91021b48c0fe.png)
-![icons8-kali-linux-32](https://user-images.githubusercontent.com/47704223/129115207-70261c92-2fd4-4ea6-9b3e-cc72b316d33c.png)
-![ParrotOS-32](https://user-images.githubusercontent.com/47704223/129115282-3690ea94-05b3-4de4-af81-57997a25bdd2.png)
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+ </p>
 
 # Statistics :
   <img align="left" alt="Antyss77's GitHub Stats" src="https://github-readme-stats-lake-one.vercel.app/api?username=Antyss77&show_icons=true&hide_border=true" />
