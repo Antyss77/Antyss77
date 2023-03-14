@@ -19,15 +19,6 @@
 ![icons8-javascript-32](https://user-images.githubusercontent.com/47704223/128956069-10ce583b-819f-4c96-909f-ca25334591f1.png)
 ![icons8-c-sharp-logo-2-32](https://user-images.githubusercontent.com/47704223/222995589-082d8629-3371-4d47-a1d4-e7c7a3fc0e94.png)
 
-# Tools :
-![icons8-intellij-idea-32](https://user-images.githubusercontent.com/47704223/128955443-8e3479d9-2d2e-4bc0-b4e1-2f0a9c92af5f.png)
-![icons8-visual-studio-code-2019-32](https://user-images.githubusercontent.com/47704223/128955444-fd94d629-6e79-43bc-bc61-aacbf89fa2af.png)
-![6929231_logo_visual studio_icon](https://user-images.githubusercontent.com/47704223/128957790-a7ec0875-7409-41f0-b8c7-1ef90837a9e7.png)
-![icons8-github-32](https://user-images.githubusercontent.com/47704223/128955441-6015276b-ac89-4b4f-8dc6-52216b4528dd.png)
-![photoshop](https://user-images.githubusercontent.com/47704223/128955645-73a88973-85e5-4c08-afc7-5c68936995de.png)
-![ai](https://user-images.githubusercontent.com/47704223/128956609-fd34ba10-d1f1-4240-b082-30dfe56c9eb5.png)
-![terminal](https://user-images.githubusercontent.com/47704223/128956179-e08a367d-8b49-4a50-9b46-8d69909f92f7.png)
-
 # Framework :
 ![4373284_angular_logo_logos_icon](https://user-images.githubusercontent.com/47704223/128957339-7abe2f71-d81a-435b-ae48-2947ec2fccb3.png)
 ![4691208_symfony_icon](https://user-images.githubusercontent.com/47704223/128957482-d2d8d999-d099-4c4c-8be8-46ab7e3e576d.png)
