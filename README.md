@@ -24,8 +24,6 @@
 
 # Framework :
 <p align="left">
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-<img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/47704223/225157934-71188cce-abf2-4e9e-b428-22602aa1c795.svg" alt="laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
