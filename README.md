@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/47704223/225158158-0b884252-8341-4fa9-a4e1-cc5dfe6bb19c.svg" alt="php" width="40" height="40"/>
+<img src="https://github.com/Antyss77/Antyss77/assets/47704223/3b73b415-e6cd-4798-8d25-c364f3d9cb12" alt="python" width="40" height="40"/>
 </p>
 
 # Framework :
