@@ -12,14 +12,14 @@
 [![Discord](https://user-images.githubusercontent.com/47704223/128960503-17a16290-c2b6-43f9-a862-ddd1f077617e.png)](https://discord.com/users/277483794376818689)
 
 # Languages :
-<img src="https://skillicons.dev/icons?i=java,cs,html,css,js,php,py, fortran"/>
+<img src="https://skillicons.dev/icons?i=java,cs,cpp&theme=light"/>
 
 # Framework :
-<img src="https://skillicons.dev/icons?i=laravel,symfony,dotnet,vuejs,nodejs,flutter"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,"/>
 
   
 # Others :
-<img src="https://skillicons.dev/icons?i=linux,git,figma,ai,ps,vscode,idea,replit,stackoverflow"/>
+<img src="https://skillicons.dev/icons?i=gradle,ai,ps,vscode,idea,visualstudio,git,github,stackoverflow&perline=3"/>
 
 
 # Statistics :
