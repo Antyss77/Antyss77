@@ -12,10 +12,10 @@
 [![Discord](https://user-images.githubusercontent.com/47704223/128960503-17a16290-c2b6-43f9-a862-ddd1f077617e.png)](https://discord.com/users/277483794376818689)
 
 # Languages :
-<img src="https://skillicons.dev/icons?i=java,cs,cpp&theme=light"/>
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,python&theme=light"/>
 
 # Framework :
-<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,"/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,dotnet,qt"/>
 
   
 # Others :
