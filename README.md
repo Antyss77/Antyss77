@@ -19,7 +19,7 @@
 
   
 # Others :
-<img src="https://skillicons.dev/icons?i=gradle,ai,ps,vscode,idea,visualstudio,git,github,stackoverflow&perline=3"/>
+<img src="https://skillicons.dev/icons?i=gradle,ai,ps,vscode,idea,visualstudio,git,github,stackoverflow,devto,figma,linux&perline=4"/>
 
 
 # Statistics :
