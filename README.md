@@ -23,6 +23,6 @@
 
 
 # Statistics :
-<img align="left" alt="Antyss77's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Antyss77&theme=tokyonight&show_icons=true&hide_border=true"/>
-<img align="right" alt="Antyss77 Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Antyss77&langs_count=3&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/>
+![Antyss77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antyss77&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C) &nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antyss77&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)(https://github.com/anuraghazra/github-readme-stats"/>
 
