@@ -23,6 +23,7 @@
 
 
 # Statistics :
-![Antyss77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Antyss77&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C) &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antyss77&show_icons=true&theme=onedark&text_color=AFAFAF&title_color=FFFFFF&icon_color=35CF5C&layout=compact)
+![Antyss77's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antyss77&show_icons=true&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Antyss77&layout=compact)
+
 
